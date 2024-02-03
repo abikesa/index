@@ -9,3 +9,5 @@
    - Allan
    - Referees
    - Collaborators
+5. ENT
+6. Orthopedic
