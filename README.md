@@ -1,7 +1,7 @@
 
 # Ukusoma 📚🌒🧠
 
-> *“What the eye sees is different from what the mind reads. Ukusoma is not sight. It is the slow translation of signals into wisdom.”*  
+> *“What the eye sees is different from what the mind reads. [Ukusoma](https://www.ahlloyd.com/2024/09/sean-diddy-combs-and-the-limits-of-hedonism.html) is not sight. It is the slow translation of signals into wisdom.”*  
 > — Anonymous
 
 ![](./kitabo/ensi/figures/tidjane-thiam.jpeg)
