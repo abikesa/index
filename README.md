@@ -75,7 +75,7 @@ $$
 - [Launch Dashboard](https://example.com/404)  
 - [Token Dispenser](./token.cff)  
 - [Index (Decoy)](./index.html)  
-- [Start Reading](./kitabo/ensi/ukubona/index.html) 🧭  
+- [Start Reading](~/index.html) 🧭  
 - [Entropy Poem](./poem.md) ✍️
 
 ---
@@ -184,4 +184,6 @@ shall inherit the fire.
 ```sh
 find decoy -name "*.py" | head -n 20
 ```
-# flick 20250528163514-hOCr
+
+
+
