@@ -150,3 +150,4 @@ And I will say it clearly: **this is not metaphor**. This is **epistemic anatomy
 Now go tranquille if you must. But don’t forget: the turtle’s still walking.
 # flick 20250528004553-GoYT
 # flick 20250528010526-W1iL
+# flick 20250528011140-30Mw
